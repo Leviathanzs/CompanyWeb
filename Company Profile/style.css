@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container-navbar {
+    height: 100vh;
+}
+
+.ul-navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.li-navbar {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.a-navbar {
+    text-decoration: none;
+    color: black;
+}
